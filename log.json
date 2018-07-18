@@ -1,0 +1,658 @@
+[
+    {
+        "Березина": {
+            "after": 1545,
+            "before": 1500,
+            "new": true,
+            "points": 9,
+            "seed": 7.5
+        },
+        "Валиуллин": {
+            "after": 1615,
+            "before": 1500,
+            "new": true,
+            "points": 12,
+            "seed": 7.5
+        },
+        "Денисов": {
+            "after": 1475,
+            "before": 1500,
+            "new": true,
+            "points": 6,
+            "seed": 7.5
+        },
+        "Деревщикова": {
+            "after": 1591,
+            "before": 1500,
+            "new": true,
+            "points": 11,
+            "seed": 7.5
+        },
+        "Деревянкин": {
+            "after": 1638,
+            "before": 1500,
+            "new": true,
+            "points": 13,
+            "seed": 7.5
+        },
+        "Едутова": {
+            "after": 1335,
+            "before": 1500,
+            "new": true,
+            "points": 0,
+            "seed": 7.5
+        },
+        "Еньшин": {
+            "after": 1452,
+            "before": 1500,
+            "new": true,
+            "points": 5,
+            "seed": 7.5
+        },
+        "Карпов": {
+            "after": 1359,
+            "before": 1500,
+            "new": true,
+            "points": 1,
+            "seed": 7.5
+        },
+        "Мутилин": {
+            "after": 1382,
+            "before": 1500,
+            "new": true,
+            "points": 2,
+            "seed": 7.5
+        },
+        "Орловский": {
+            "after": 1499,
+            "before": 1500,
+            "new": true,
+            "points": 7,
+            "seed": 7.5
+        },
+        "Репин": {
+            "after": 1405,
+            "before": 1500,
+            "new": true,
+            "points": 3,
+            "seed": 7.5
+        },
+        "Савина": {
+            "after": 1429,
+            "before": 1500,
+            "new": true,
+            "points": 4,
+            "seed": 7.5
+        },
+        "Сысоева": {
+            "after": 1521,
+            "before": 1500,
+            "new": true,
+            "points": 8,
+            "seed": 7.5
+        },
+        "Юрьева": {
+            "after": 1661,
+            "before": 1500,
+            "new": true,
+            "points": 14,
+            "seed": 7.5
+        },
+        "Якушкин": {
+            "after": 1568,
+            "before": 1500,
+            "new": true,
+            "points": 10,
+            "seed": 7.5
+        }
+    },
+    {
+        "Еньшин": {
+            "after": 1578,
+            "before": 1452,
+            "new": false,
+            "points": 2,
+            "seed": 0.9985874524592846
+        },
+        "Липавский": {
+            "after": 1335,
+            "before": 1500,
+            "new": true,
+            "points": 0,
+            "seed": 1.5
+        },
+        "Репин": {
+            "after": 1438,
+            "before": 1405,
+            "new": false,
+            "points": 1,
+            "seed": 0.7993634555858802
+        }
+    },
+    {
+        "Ворожбиев": {
+            "after": 1509,
+            "before": 1500,
+            "new": true,
+            "points": 2,
+            "seed": 2.0
+        },
+        "Репин": {
+            "after": 1348,
+            "before": 1438,
+            "new": false,
+            "points": 0,
+            "seed": 1.1415817296200248
+        },
+        "Савина": {
+            "after": 1430,
+            "before": 1429,
+            "new": false,
+            "points": 1,
+            "seed": 1.0945237717089409
+        },
+        "Юрьева": {
+            "after": 1732,
+            "before": 1661,
+            "new": false,
+            "points": 3,
+            "seed": 2.2912499750207993
+        }
+    },
+    {
+        "Ворожбиев": {
+            "after": 1529,
+            "before": 1509,
+            "new": false,
+            "points": 5,
+            "seed": 4.4733355463369975
+        },
+        "Деревянкин": {
+            "after": 1719,
+            "before": 1638,
+            "new": false,
+            "points": 8,
+            "seed": 5.90758673626439
+        },
+        "Еньшин": {
+            "after": 1606,
+            "before": 1578,
+            "new": false,
+            "points": 6,
+            "seed": 5.272321555588495
+        },
+        "Карпов": {
+            "after": 1332,
+            "before": 1359,
+            "new": false,
+            "points": 2,
+            "seed": 2.701566445406421
+        },
+        "Липавский": {
+            "after": 1280,
+            "before": 1335,
+            "new": false,
+            "points": 1,
+            "seed": 2.439286962135612
+        },
+        "Мутилин": {
+            "after": 1383,
+            "before": 1382,
+            "new": false,
+            "points": 3,
+            "seed": 2.961605657254459
+        },
+        "Орловский": {
+            "after": 1330,
+            "before": 1499,
+            "new": false,
+            "points": 0,
+            "seed": 4.353853717625618
+        },
+        "Савина": {
+            "after": 1448,
+            "before": 1430,
+            "new": false,
+            "points": 4,
+            "seed": 3.5246168728074894
+        },
+        "Смирнов": {
+            "after": 1597,
+            "before": 1500,
+            "new": true,
+            "points": 7,
+            "seed": 4.5
+        }
+    },
+    {
+        "Ворожбиев": {
+            "after": 1533,
+            "before": 1529,
+            "new": false,
+            "points": 3,
+            "seed": 2.992629040213055
+        },
+        "Липавский": {
+            "after": 1334,
+            "before": 1280,
+            "new": false,
+            "points": 2,
+            "seed": 1.1271418208630677
+        },
+        "Мутилин": {
+            "after": 1280,
+            "before": 1383,
+            "new": false,
+            "points": 0,
+            "seed": 1.846751654840661
+        },
+        "Решетова": {
+            "after": 1562,
+            "before": 1500,
+            "new": true,
+            "points": 4,
+            "seed": 3.0
+        },
+        "Смирнов": {
+            "after": 1688,
+            "before": 1597,
+            "new": false,
+            "points": 5,
+            "seed": 3.5040718860404114
+        },
+        "Шингурова": {
+            "after": 1388,
+            "before": 1500,
+            "new": true,
+            "points": 1,
+            "seed": 3.0
+        }
+    },
+    {
+        "Берг": {
+            "after": 1325,
+            "before": 1500,
+            "new": true,
+            "points": 0,
+            "seed": 3.5
+        },
+        "Карпов": {
+            "after": 1534,
+            "before": 1332,
+            "new": false,
+            "points": 6,
+            "seed": 1.9437261369583088
+        },
+        "Кондранин": {
+            "after": 1475,
+            "before": 1500,
+            "new": true,
+            "points": 3,
+            "seed": 3.5
+        },
+        "Орловский": {
+            "after": 1433,
+            "before": 1330,
+            "new": false,
+            "points": 4,
+            "seed": 1.9262274132769692
+        },
+        "Савина": {
+            "after": 1546,
+            "before": 1448,
+            "new": false,
+            "points": 5,
+            "seed": 3.0274523746695565
+        },
+        "Савченко": {
+            "after": 1425,
+            "before": 1500,
+            "new": true,
+            "points": 2,
+            "seed": 3.5
+        },
+        "Токарева": {
+            "after": 1375,
+            "before": 1500,
+            "new": true,
+            "points": 1,
+            "seed": 3.5
+        }
+    },
+    {
+        "Березина": {
+            "after": 1537,
+            "before": 1545,
+            "new": false,
+            "points": 1,
+            "seed": 1.0762045479580948
+        },
+        "Липавский": {
+            "after": 1294,
+            "before": 1334,
+            "new": false,
+            "points": 0,
+            "seed": 0.3441779228212385
+        },
+        "Смирнов": {
+            "after": 1737,
+            "before": 1688,
+            "new": false,
+            "points": 2,
+            "seed": 1.5796175292206667
+        }
+    },
+    {
+        "Ворожбиев": {
+            "after": 1435,
+            "before": 1533,
+            "new": false,
+            "points": 1,
+            "seed": 3.059775040958084
+        },
+        "Гайбуллаев": {
+            "after": 1429,
+            "before": 1500,
+            "new": true,
+            "points": 2,
+            "seed": 3.5
+        },
+        "Деревянкин": {
+            "after": 1795,
+            "before": 1719,
+            "new": false,
+            "points": 6,
+            "seed": 4.559601055006453
+        },
+        "Кондранин": {
+            "after": 1352,
+            "before": 1475,
+            "new": false,
+            "points": 0,
+            "seed": 2.5590501271751074
+        },
+        "Липавский": {
+            "after": 1390,
+            "before": 1294,
+            "new": false,
+            "points": 3,
+            "seed": 1.1585781379117324
+        },
+        "Орловский": {
+            "after": 1526,
+            "before": 1433,
+            "new": false,
+            "points": 4,
+            "seed": 2.2042027693544366
+        },
+        "Смирнов": {
+            "after": 1756,
+            "before": 1737,
+            "new": false,
+            "points": 5,
+            "seed": 4.684583070808083
+        }
+    },
+    {
+        "Деревянкин": {
+            "after": 1894,
+            "before": 1795,
+            "new": false,
+            "points": 4,
+            "seed": 3.0282706655720038
+        },
+        "Еньшин": {
+            "after": 1506,
+            "before": 1606,
+            "new": false,
+            "points": 0,
+            "seed": 1.8741902974162348
+        },
+        "Куняев": {
+            "after": 1426,
+            "before": 1500,
+            "new": true,
+            "points": 1,
+            "seed": 2.5
+        },
+        "Петрухин": {
+            "after": 1496,
+            "before": 1500,
+            "new": true,
+            "points": 2,
+            "seed": 2.5
+        },
+        "Юрьева": {
+            "after": 1786,
+            "before": 1732,
+            "new": false,
+            "points": 3,
+            "seed": 2.6675903597647412
+        }
+    },
+    {
+        "Березина": {
+            "after": 1614,
+            "before": 1537,
+            "new": false,
+            "points": 3,
+            "seed": 1.8939109282096784
+        },
+        "Ворожбиев": {
+            "after": 1485,
+            "before": 1435,
+            "new": false,
+            "points": 2,
+            "seed": 1.2778711441305548
+        },
+        "Гайбуллаев": {
+            "after": 1413,
+            "before": 1429,
+            "new": false,
+            "points": 1,
+            "seed": 1.242832732845938
+        },
+        "Деревянкин": {
+            "after": 1919,
+            "before": 1894,
+            "new": false,
+            "points": 4,
+            "seed": 3.636766041661308
+        },
+        "Савина": {
+            "after": 1410,
+            "before": 1546,
+            "new": false,
+            "points": 0,
+            "seed": 1.9486191531525203
+        }
+    },
+    {
+        "Березина": {
+            "after": 1490,
+            "before": 1614,
+            "new": false,
+            "points": 1,
+            "seed": 3.854202464013196
+        },
+        "Ворожбиев": {
+            "after": 1545,
+            "before": 1485,
+            "new": false,
+            "points": 4,
+            "seed": 2.612744913704778
+        },
+        "Гайбуллаев": {
+            "after": 1328,
+            "before": 1413,
+            "new": false,
+            "points": 0,
+            "seed": 1.9554975806684725
+        },
+        "Деревянкин": {
+            "after": 1911,
+            "before": 1919,
+            "new": false,
+            "points": 6,
+            "seed": 6.185401365352841
+        },
+        "Орловский": {
+            "after": 1526,
+            "before": 1526,
+            "new": false,
+            "points": 3,
+            "seed": 3.005674287828202
+        },
+        "Решетова": {
+            "after": 1721,
+            "before": 1562,
+            "new": false,
+            "points": 7,
+            "seed": 3.354496207413634
+        },
+        "Савина": {
+            "after": 1544,
+            "before": 1410,
+            "new": false,
+            "points": 5,
+            "seed": 1.9294515210547039
+        },
+        "Смирнов": {
+            "after": 1621,
+            "before": 1756,
+            "new": false,
+            "points": 2,
+            "seed": 5.102531659964173
+        }
+    },
+    {
+        "Гайбуллаев": {
+            "after": 1372,
+            "before": 1328,
+            "new": false,
+            "points": 2,
+            "seed": 1.333553279075209
+        },
+        "Григорин-Рябов": {
+            "after": 1622,
+            "before": 1500,
+            "new": true,
+            "points": 5,
+            "seed": 3.0
+        },
+        "Дубова": {
+            "after": 1390,
+            "before": 1500,
+            "new": true,
+            "points": 1,
+            "seed": 3.0
+        },
+        "Липавский": {
+            "after": 1466,
+            "before": 1390,
+            "new": false,
+            "points": 3,
+            "seed": 1.7828911463469845
+        },
+        "Савина": {
+            "after": 1375,
+            "before": 1544,
+            "new": false,
+            "points": 0,
+            "seed": 3.0012578164259835
+        },
+        "Смирнов": {
+            "after": 1651,
+            "before": 1621,
+            "new": false,
+            "points": 4,
+            "seed": 3.5784497978722163
+        }
+    },
+    {
+        "Гайбуллаев": {
+            "after": 1451,
+            "before": 1372,
+            "new": false,
+            "points": 6,
+            "seed": 3.4077223859043597
+        },
+        "Деревянкин": {
+            "after": 1652,
+            "before": 1911,
+            "new": false,
+            "points": 1,
+            "seed": 10.046804249445694
+        },
+        "Кандзюба": {
+            "after": 1388,
+            "before": 1500,
+            "new": true,
+            "points": 2,
+            "seed": 6.0
+        },
+        "Кондранин": {
+            "after": 1527,
+            "before": 1352,
+            "new": false,
+            "points": 9,
+            "seed": 3.1338512021368
+        },
+        "Липавский": {
+            "after": 1651,
+            "before": 1466,
+            "new": false,
+            "points": 11,
+            "seed": 4.793512627189755
+        },
+        "Орловский": {
+            "after": 1510,
+            "before": 1526,
+            "new": false,
+            "points": 5,
+            "seed": 5.714506507494566
+        },
+        "Преподобная": {
+            "after": 1562,
+            "before": 1500,
+            "new": true,
+            "points": 8,
+            "seed": 6.0
+        },
+        "Савина": {
+            "after": 1482,
+            "before": 1375,
+            "new": false,
+            "points": 7,
+            "seed": 3.449602621708624
+        },
+        "Смирнов": {
+            "after": 1727,
+            "before": 1651,
+            "new": false,
+            "points": 10,
+            "seed": 7.520449730156534
+        },
+        "Сысоева": {
+            "after": 1478,
+            "before": 1521,
+            "new": false,
+            "points": 4,
+            "seed": 5.638016676920406
+        },
+        "Яковлев": {
+            "after": 1329,
+            "before": 1500,
+            "new": true,
+            "points": 0,
+            "seed": 6.0
+        },
+        "Якушкин": {
+            "after": 1475,
+            "before": 1568,
+            "new": false,
+            "points": 3,
+            "seed": 6.348652924495966
+        }
+    }
+]
